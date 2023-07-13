@@ -1,0 +1,6 @@
+photo_app/myvenv/
+photo_app/db.sqlite3
+photo_app/templates/
+todo_app/myvenv/
+todo_app/db.sqlite3
+todo_app/templates/
