@@ -4,3 +4,6 @@ photo_app/templates/
 todo_app/myvenv/
 todo_app/db.sqlite3
 todo_app/templates/
+Hello_DRF/myvenv/
+Hello_DRF/db.sqlite3
+Hello_DRF/templates/
