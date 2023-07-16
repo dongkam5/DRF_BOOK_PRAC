@@ -7,3 +7,6 @@ todo_app/templates/
 Hello_DRF/myvenv/
 Hello_DRF/db.sqlite3
 Hello_DRF/templates/
+DRF_todo/myvenv/
+DRF_todo/db.sqlite3
+Hello_DRF/templates/
