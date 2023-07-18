@@ -9,4 +9,7 @@ Hello_DRF/db.sqlite3
 Hello_DRF/templates/
 DRF_todo/myvenv/
 DRF_todo/db.sqlite3
-Hello_DRF/templates/
+DRF_todo/templates/
+MyBoard/myvenv/
+MyBoard/db.sqlite3
+MyBoard/templates/
