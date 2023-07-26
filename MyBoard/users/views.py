@@ -10,6 +10,7 @@ class RegisterView(generics.CreateAPIView):
     queryset=User.objects.all()
     serializer_class=RegisterSerializer
 
+
 class LoginView(generics.GenericAPIView):
     serializer_class=LoginSerializer
 
